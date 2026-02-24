@@ -14,6 +14,8 @@ Associate Consultant at Capgemini with 4+ years of experience in Software AG Web
 
 •	My WebMethods Server (MWS)
 
+•	API Management
+
 •	JDBC & SAP Adapters
 
 •	L1/L2 Production Support (24/7 Environment)
